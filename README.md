@@ -28,13 +28,13 @@ gTTS                    # text to speech (TTS)
 
 playsound               # play mp3 file
 
-datetime               # get what time is now
+datetime                # get what time is now
 
-tkinter 
+tkinter                 # create a GUI
 
-threading 
+threading               # To perform multiple tasks at the same time
 
-sys
+sys                     #  Provides access to various system-specific parameters and functions.
 ```
 Then execute the file
 
@@ -60,7 +60,7 @@ Option 2. Open the file and run it in your IDE.
   </td>
     
   <td align="center">
-      <a href="" style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/161225330?v=4" width="88px;" alt=""/><br/><sub><b>Li Yunhao </b></sub></a><br/>
+      <a href="https://github.com/yh2der" style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/84719731?v=4" width="88px;" alt="Yun Hao Li"/><br/><sub><b>Yun Hao Li</b></sub></a><br/>
   </td>    
   </tr>
 </table>
