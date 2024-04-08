@@ -28,7 +28,7 @@ gTTS                    # text to speech (TTS)
 
 playsound               # play mp3 file
 
-import datetime as dt   # get what time is now
+datetime               # get what time is now
 
 tkinter 
 
